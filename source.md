@@ -80,7 +80,7 @@ Subslide:
 ## Nociones
 ### Table-bases
 
-* Bases de datos los finales de partida
+* Bases de datos de finales de partida
 * Cálculos precisos para el juego óptimo en cualquier posición
 * Siempre que No. piezas <= límite determinado
 
@@ -244,6 +244,22 @@ Ponder/Permanent Brain: OFF
 Contempt/Draw Score: DEFAULT
 ```
 
+Note:
+Platicar acerca del opening-book y la selección de aperturas (hasta el mov 10)
+
+Subslide:
+
+## Computer Chess
+### TCEC: Adjudication rules
+
+* Tablas: Triple repatición de posición
+* Tablas: Regla de los 40 movimientos
+* Tablas: Si _mov_ > 40 y -0-05 _eval_ < +0.05 para ambos jugadores, 10 plies consecutivos
+* Gana: _eval_ > 6.5, para ambos jugadores, 10 plies consecutivos
+
+Note:
+Platicar acerca del sistema de evaluación: # peones
+
 Subslide:
 
 ## Computer Chess
@@ -308,8 +324,8 @@ Subslide:
 ## Stockfish
 ### Propiedades
 
-1. Transpostion table -> 1Tb
-3. Aggresive pruning: Advanced alpha-beta search (LMR)
+1. Tabla de transposición -> 1Tb
+3. Poda agresiva: Búsqueda alpha-beta avanzada (LMR)
 5. [Bitboards](https://chessprogramming.wikispaces.com/Bitboards)
 6. Addon: [6 man Syzygy table bases](http://chessprogramming.wikispaces.com/Syzygy+Bases)
 
@@ -320,7 +336,7 @@ Note:
 Subslide:
 
 ## Stockfish
-### Propiedades: alpha-beta pruning
+### Propiedades: poda alpha-beta
 
 ```
 function alphabeta(node, depth, α, β, maximizingPlayer)
@@ -348,7 +364,7 @@ alphabeta(origin, depth, -∞, +∞, TRUE)
 Subslide:
 
 ## Stockfish
-### Propiedades: alpha-beta pruning
+### Propiedades: poda alpha-beta
 
 <img height="400" src="fig/alpha-beta-pruning.png">
 
@@ -359,13 +375,13 @@ Note:
 Subslide:
 
 ## Stockfish
-### propiedades: bitboars / bitsets /bitmaps
+### propiedades: bitboars / bitsets / bitmaps
 
 <img height="250" src="fig/algebraic_notation.png">
 
-1. Representación interna del tablero de ajedrez.
+1. Representación interna del tablero de ajedrez
 2. 64-bit word (o registro) -> cubre todo le tablero
-3. Una palabra por pieza.
+3. Una palabra por pieza
 
 Subslide:
 
