@@ -1,12 +1,8 @@
-## Visual Computing Slides -- Transformations
+## Software Libre Presentations -- Stockfish
 
-Part of the *Software Libre* course given at [National University of Colombia](http://www.disi.unal.edu.co/) by [Jean Pierre Charalambos](http://otrolado.info).
+Part of the *Software Libre* course given at [National University of Colombia](http://www.disi.unal.edu.co/) by [Jean Pierre Charalambos](http://otrolado.info). Watch it online [here](http://softwarelibre.github.io/stockfish.reveal) or go to the setup to watch it offline.
 
 Powered by [reveal](https://github.com/hakimel/reveal.js).
-
-Made possible thanks to... 
-
-<!--- a long list of students and links to their pages. To come ;) -->
 
 ## Setup
 
