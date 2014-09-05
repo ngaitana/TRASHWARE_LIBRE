@@ -14,12 +14,12 @@ Powered by [reveal](https://github.com/hakimel/reveal.js).
  ```
 note that the it has the following folder structure (Refer to the [reveal folder structure](https://github.com/hakimel/reveal.js#folder-structure) for more details):
 
-    |-- css/
-    |-- js/
-    |-- plugin/
-    |-- lib/
-    |-- fig/
-    |-- source.md
+     |-- css/
+     |-- js/
+     |-- plugin/
+     |-- lib/
+     |-- fig/
+     |-- source.md
 
 The file `source.md` together with the folder `fig` hold the presentation contents.
 
