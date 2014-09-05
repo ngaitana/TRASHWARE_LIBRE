@@ -12,7 +12,7 @@ Clone the repo to get the presentation source code:
  $ git clone https://github.com/SoftwareLibre/stockfish.reveal.git
  $ git checkout gh-pages
  ```
-note that the it has the following folder structure (Refer to the [reveal folder structure](https://github.com/hakimel/reveal.js#folder-structure) for more details):
+note that it has the following folder structure (Refer to the [reveal folder structure](https://github.com/hakimel/reveal.js#folder-structure) for more details):
 
     |-- css/
     |-- js/
