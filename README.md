@@ -1,6 +1,6 @@
 ## Visual Computing Slides -- Transformations
 
-Part of the *Visual Computing* course given at [National University of Colombia](http://www.disi.unal.edu.co/) by [Jean Pierre Charalambos](http://otrolado.info).
+Part of the *Software Libre* course given at [National University of Colombia](http://www.disi.unal.edu.co/) by [Jean Pierre Charalambos](http://otrolado.info).
 
 Powered by [reveal](https://github.com/hakimel/reveal.js).
 
