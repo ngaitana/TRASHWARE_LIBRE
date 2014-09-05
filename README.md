@@ -21,9 +21,9 @@ note that the it has the following folder structure (Refer to the [reveal folder
      |-- fig/
      |-- source.md
 
-The file `source.md` together with the folder `fig` hold the presentation contents.
+ The file `source.md` together with the folder `fig` hold the presentation contents.
 
-External markdown and speaker notes, require that presentations run from a local web server. The remaining instructions will set up such a server as well as all of the development tasks needed to make edits to the slides source code.
+ External markdown and speaker notes, require that presentations run from a local web server. The remaining instructions will set up such a server as well as all of the development tasks needed to make edits to the slides source code.
 
 2. Install [Node.js](http://nodejs.org/)
 
