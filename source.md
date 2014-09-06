@@ -274,7 +274,7 @@ Subslide:
 ## Computer Chess
 ### TCEC: Standings
 
-| Season         | Fecha               | Campeón          | Subcampeón       |
+| Temporada      | Fecha               | Campeón          | Subcampeón       |
 |----------------|---------------------|------------------|------------------|
 | TCEC Season 1  | Dec 2010 – Feb 2011 | Houdini 1.5a     | Rybka 4.0        |
 | TCEC Season 2  | Feb 2011 – Apr 2011 | Houdini 1.5a     | Rybka 4.1        |
@@ -497,11 +497,11 @@ Slide:
 
 # Resources
 
-* [stockfish](http://stockfishchess.org/)
-* [stockfish-gh](https://github.com/official-stockfish/Stockfish)
-* [stockfish-fishtest](https://github.com/glinscott/fishtest)
+* [Stockfish](http://stockfishchess.org/)
+* [Stockfish-gh](https://github.com/official-stockfish/Stockfish)
+* [Stockfish-fishtest](https://github.com/glinscott/fishtest)
+* [TCEC](http://tcec.chessdom.com/)
 * [TCEC Superfinal - Round 9 : Stockfish vs Komodo](https://www.youtube.com/watch?v=oRztcrisum8)
 * [TCEC Superfinal - Round 18 : Komodo vs Stockfish](https://www.youtube.com/watch?v=ZYCmOlp2ZU8)
-* [tcec](http://tcec.chessdom.com/)
 * [Chess programming wiki](http://chessprogramming.wikispaces.com/)
 * [Kasparov and the machine](http://topdocumentaryfilms.com/game-over-kasparov-and-the-machine/)
