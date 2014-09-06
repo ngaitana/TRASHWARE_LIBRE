@@ -121,7 +121,7 @@ Subslide:
 Subslide:
 
 ## Nociones
-### Table-bases Ejemplos
+### Table-bases: Ejemplos
 
 Negras mueven y pierden en 545 turnos
 
@@ -130,7 +130,7 @@ Negras mueven y pierden en 545 turnos
 Subslide:
 
 ## Nociones
-### Table-bases Ejemplos
+### Table-bases: Ejemplos
 
 Zugswang en ambos lados
 
@@ -139,7 +139,7 @@ Zugswang en ambos lados
 Subslide:
 
 ## Nociones
-### En passant
+### Bono: En passant
 
 <img height="400" src="fig/en_passant.png">
 
@@ -250,9 +250,9 @@ Platicar acerca del opening-book y la selección de aperturas (hasta el mov 10)
 Subslide:
 
 ## Computer Chess
-### TCEC: Adjudication rules
+### TCEC: Reglas de adjudicación
 
-* Tablas: Triple repatición de posición
+* Tablas: Triple repetición de posición
 * Tablas: Regla de los 40 movimientos
 * Tablas: Si _mov_ > 40 y -0-05 _eval_ < +0.05 para ambos jugadores, 10 plies consecutivos
 * Gana: _eval_ > 6.5, para ambos jugadores, 10 plies consecutivos
@@ -274,8 +274,9 @@ Subslide:
 ## Computer Chess
 ### TCEC: Standings
 
-| TCEC Season 1  | Dec 2010 – Feb 2011 | Houdini 1.5a     | Rybka 4.0        |
+| Season         | Fecha               | Campeón          | Subcampeón       |
 |----------------|---------------------|------------------|------------------|
+| TCEC Season 1  | Dec 2010 – Feb 2011 | Houdini 1.5a     | Rybka 4.0        |
 | TCEC Season 2  | Feb 2011 – Apr 2011 | Houdini 1.5a     | Rybka 4.1        |
 | TCEC Season 3  | Apr 2011 – May 2011 | N/A              |                  |
 | TCEC Season 4  | Jan 2013 – May 2013 | Houdini 3        | Stockfish 250413 |
@@ -486,7 +487,7 @@ Subslide:
 * Tord Romstad, Marco Costalba y Joona Kiiski
 * [Gary Linscott](http://forwardcoding.com/)
 * [Ronald the man](http://chessprogramming.wikispaces.com/Ronald+de+Man)
-* [Comunidad]
+* [Comunidad](http://blog.stockfishchess.org/post/87376326602/stockfish-5)
 
 Note:
 1. Buscar interlocutores
@@ -499,6 +500,8 @@ Slide:
 * [stockfish](http://stockfishchess.org/)
 * [stockfish-gh](https://github.com/official-stockfish/Stockfish)
 * [stockfish-fishtest](https://github.com/glinscott/fishtest)
+* [TCEC Superfinal - Round 9 : Stockfish vs Komodo](https://www.youtube.com/watch?v=oRztcrisum8)
+* [TCEC Superfinal - Round 18 : Komodo vs Stockfish](https://www.youtube.com/watch?v=ZYCmOlp2ZU8)
 * [tcec](http://tcec.chessdom.com/)
 * [Chess programming wiki](http://chessprogramming.wikispaces.com/)
 * [Kasparov and the machine](http://topdocumentaryfilms.com/game-over-kasparov-and-the-machine/)
