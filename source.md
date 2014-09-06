@@ -274,14 +274,14 @@ Subslide:
 ## Computer Chess
 ### TCEC: Standings
 
-| Season         | Fecha               | Campeón          | Subcampeón       |
-|----------------|---------------------|------------------|------------------|
-| TCEC Season 1  | Dec 2010 – Feb 2011 | Houdini 1.5a     | Rybka 4.0        |
-| TCEC Season 2  | Feb 2011 – Apr 2011 | Houdini 1.5a     | Rybka 4.1        |
-| TCEC Season 3  | Apr 2011 – May 2011 | N/A              |                  |
-| TCEC Season 4  | Jan 2013 – May 2013 | Houdini 3        | Stockfish 250413 |
-| TCEC Season 5  | Aug 2013 – Dec 2013 | Komodo 1142      | Stockfish 191113 |
-| TCEC Season 6  | Feb 2014 – May 2014 | Stockfish 170514 | Komodo 7x        |
+| Temporada     | Fecha               | Campeón          | Subcampeón       |
+|---------------|---------------------|------------------|------------------|
+| TCEC Season 1 | Dec 2010 – Feb 2011 | Houdini 1.5a     | Rybka 4.0        |
+| TCEC Season 2 | Feb 2011 – Apr 2011 | Houdini 1.5a     | Rybka 4.1        |
+| TCEC Season 3 | Apr 2011 – May 2011 | N/A              |                  |
+| TCEC Season 4 | Jan 2013 – May 2013 | Houdini 3        | Stockfish 250413 |
+| TCEC Season 5 | Aug 2013 – Dec 2013 | Komodo 1142      | Stockfish 191113 |
+| TCEC Season 6 | Feb 2014 – May 2014 | Stockfish 170514 | Komodo 7x        |
 
 Slide:
 
