@@ -23,17 +23,25 @@ Nicolás Gaitán Albarracín
 
 Slide:
 
-<img height="600" src="fig/commercial.png">
-
-Slide:
-
 # Contenido
 
-## 
+Pero primero, mira alrededor
 
-## 
+Empezar a partir de lo que tienes
 
-## 
+Elegir un buen nombre
+
+Tener una misión clara 
+
+Características y lista de requerimientos
+
+Declarar que el proyecto es libre
+
+Estado de desarrollo
+
+Canales de Comunicación
+
+Recursos
 
 Slide:
 
@@ -212,7 +220,7 @@ Discos duros al menos 10 gigabytes.
 Monitores no menores a 15”.
 
 Slide:
-#Estado de desarrollo
+# Estado de desarrollo
 
 Subslide:
 Actualmente se acabó de evaluar el estado de la sala después de no haberla visitado durante 1 año por razones de seguridad, por daño o pérdida es necesario reemplazar 4 memorias RAM y 2 discos duros.
